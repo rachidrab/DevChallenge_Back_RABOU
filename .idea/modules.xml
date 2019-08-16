@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpringBootJwtAuthentication.iml" filepath="$PROJECT_DIR$/SpringBootJwtAuthentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DevChallengeRABOU.iml" filepath="$PROJECT_DIR$/DevChallengeRABOU.iml" />
     </modules>
   </component>
 </project>
